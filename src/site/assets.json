@@ -1,0 +1,602 @@
+{
+  "/vendor/67e39e258eda/script_main.N8E-AT9a.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/script_main.N8E-AT9a.mjs",
+    "bytes": 6651
+  },
+  "/assets/fonts/4iCr6K5wfMRRjxp0DA6-2CLnB41HhrUI.woff2": {
+    "source": "https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnB41HhrUI.woff2",
+    "bytes": 14112
+  },
+  "/assets/fonts/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2": {
+    "source": "https://framerusercontent.com/assets/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2",
+    "bytes": 8956
+  },
+  "/assets/fonts/6mJuEAguuIuMog10gGvH5d3cl8.woff2": {
+    "source": "https://framerusercontent.com/assets/6mJuEAguuIuMog10gGvH5d3cl8.woff2",
+    "bytes": 4644
+  },
+  "/assets/fonts/gyBhhwUxId8gMGYQMKR3pzfaWI_RruM4mJPby1QNtA.woff2": {
+    "source": "https://fonts.gstatic.com/s/geist/v4/gyBhhwUxId8gMGYQMKR3pzfaWI_RruM4mJPby1QNtA.woff2",
+    "bytes": 30364
+  },
+  "/assets/fonts/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2": {
+    "source": "https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2",
+    "bytes": 7080
+  },
+  "/assets/fonts/2A4Xx7CngadFGlVV4xrO06OBHY.woff2": {
+    "source": "https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2",
+    "bytes": 4236
+  },
+  "/assets/fonts/867QObYax8ANsfX4TGEVU9YiCM.woff2": {
+    "source": "https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2",
+    "bytes": 7408
+  },
+  "/assets/fonts/1K3W8DizY3v4emK8Mb08YHxTbs.woff2": {
+    "source": "https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2",
+    "bytes": 4628
+  },
+  "/assets/fonts/05KsVHGDmqXSBXM4yRZ65P8i0s.woff2": {
+    "source": "https://framerusercontent.com/assets/05KsVHGDmqXSBXM4yRZ65P8i0s.woff2",
+    "bytes": 9444
+  },
+  "/assets/fonts/5HcVoGak8k5agFJSaKa4floXVu0.woff2": {
+    "source": "https://framerusercontent.com/assets/5HcVoGak8k5agFJSaKa4floXVu0.woff2",
+    "bytes": 25276
+  },
+  "/assets/fonts/4iCr6K5wfMRRjxp0DA6-2CLnB4NHhg.woff2": {
+    "source": "https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnB4NHhg.woff2",
+    "bytes": 25224
+  },
+  "/assets/fonts/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2": {
+    "source": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+    "bytes": 8896
+  },
+  "/assets/fonts/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2": {
+    "source": "https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2",
+    "bytes": 8892
+  },
+  "/assets/fonts/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98pdF9dDs4DrjXEXw.woff2": {
+    "source": "https://fonts.gstatic.com/s/sourceserif4/v14/vEF02_tTDB4M7-auWDN0ahZJW1ge6NmXpVAHV83Bfb_US2D2QYxoUKIkn98pdF9dDs4DrjXEXw.woff2",
+    "bytes": 63476
+  },
+  "/assets/fonts/DOfvtmE1UplCq161m6Hj8CSQYg.woff2": {
+    "source": "https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2",
+    "bytes": 26696
+  },
+  "/assets/fonts/0E7IMbDzcGABpBwwqNEt60wU0w.woff2": {
+    "source": "https://framerusercontent.com/assets/0E7IMbDzcGABpBwwqNEt60wU0w.woff2",
+    "bytes": 7540
+  },
+  "/assets/fonts/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2": {
+    "source": "https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2",
+    "bytes": 9500
+  },
+  "/assets/fonts/4iCr6K5wfMRRjxp0DA6-2CLnB45HhrUI.woff2": {
+    "source": "https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnB45HhrUI.woff2",
+    "bytes": 3020
+  },
+  "/assets/fonts/3ZmXbBKToJifDV9gwcifVd1tEY.woff2": {
+    "source": "https://framerusercontent.com/assets/3ZmXbBKToJifDV9gwcifVd1tEY.woff2",
+    "bytes": 7208
+  },
+  "/assets/fonts/6FI2EneKzM3qBy5foOZXey7coCA.woff2": {
+    "source": "https://framerusercontent.com/assets/6FI2EneKzM3qBy5foOZXey7coCA.woff2",
+    "bytes": 27624
+  },
+  "/assets/fonts/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2": {
+    "source": "https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2",
+    "bytes": 4960
+  },
+  "/assets/fonts/EOr0mi4hNtlgWNn9if640EZzXCo.woff2": {
+    "source": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+    "bytes": 7116
+  },
+  "/assets/fonts/GIryZETIX4IFypco5pYZONKhJIo.woff2": {
+    "source": "https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2",
+    "bytes": 4268
+  },
+  "/assets/fonts/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2": {
+    "source": "https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2",
+    "bytes": 4316
+  },
+  "/assets/fonts/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2": {
+    "source": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+    "bytes": 27380
+  },
+  "/assets/fonts/DolVirEGb34pEXEp8t8FQBSK4.woff2": {
+    "source": "https://framerusercontent.com/assets/DolVirEGb34pEXEp8t8FQBSK4.woff2",
+    "bytes": 4288
+  },
+  "/assets/fonts/FNfhX3dt4ChuLJq2PwdlxHO7PU.woff2": {
+    "source": "https://framerusercontent.com/assets/FNfhX3dt4ChuLJq2PwdlxHO7PU.woff2",
+    "bytes": 27036
+  },
+  "/assets/fonts/Bo5CNzBv77CafbxOtKIkpw9egw.woff2": {
+    "source": "https://framerusercontent.com/assets/Bo5CNzBv77CafbxOtKIkpw9egw.woff2",
+    "bytes": 30244
+  },
+  "/assets/fonts/JEXmejW8mXOYMtt0hyRg811kHac.woff2": {
+    "source": "https://framerusercontent.com/assets/JEXmejW8mXOYMtt0hyRg811kHac.woff2",
+    "bytes": 27812
+  },
+  "/assets/fonts/NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2": {
+    "source": "https://framerusercontent.com/assets/NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2",
+    "bytes": 4932
+  },
+  "/assets/fonts/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2": {
+    "source": "https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2",
+    "bytes": 7152
+  },
+  "/assets/fonts/NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2": {
+    "source": "https://framerusercontent.com/assets/NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2",
+    "bytes": 4276
+  },
+  "/assets/fonts/P2Bw01CtL0b9wqygO0sSVogWbo.woff2": {
+    "source": "https://framerusercontent.com/assets/P2Bw01CtL0b9wqygO0sSVogWbo.woff2",
+    "bytes": 4168
+  },
+  "/assets/fonts/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2": {
+    "source": "https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2",
+    "bytes": 4756
+  },
+  "/assets/fonts/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2": {
+    "source": "https://framerusercontent.com/assets/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2",
+    "bytes": 7176
+  },
+  "/assets/fonts/H89BbHkbHDzlxZzxi8uPzTsp90.woff2": {
+    "source": "https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2",
+    "bytes": 9564
+  },
+  "/assets/fonts/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2": {
+    "source": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+    "bytes": 6652
+  },
+  "/assets/fonts/UjlFhCnUjxhNfep4oYBPqnEssyo.woff2": {
+    "source": "https://framerusercontent.com/assets/UjlFhCnUjxhNfep4oYBPqnEssyo.woff2",
+    "bytes": 27996
+  },
+  "/assets/fonts/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2": {
+    "source": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+    "bytes": 25348
+  },
+  "/assets/fonts/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2": {
+    "source": "https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2",
+    "bytes": 27736
+  },
+  "/assets/fonts/VgYFWiwsAC5OYxAycRXXvhze58.woff2": {
+    "source": "https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2",
+    "bytes": 26076
+  },
+  "/assets/fonts/X5hj6qzcHUYv7h1390c8Rhm6550.woff2": {
+    "source": "https://framerusercontent.com/assets/X5hj6qzcHUYv7h1390c8Rhm6550.woff2",
+    "bytes": 6984
+  },
+  "/assets/fonts/b6Y37FthZeALduNqHicBT6FutY.woff2": {
+    "source": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+    "bytes": 4168
+  },
+  "/assets/fonts/b8ezwLrN7h2AUoPEENcsTMVJ0.woff2": {
+    "source": "https://framerusercontent.com/assets/b8ezwLrN7h2AUoPEENcsTMVJ0.woff2",
+    "bytes": 4948
+  },
+  "/assets/fonts/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2": {
+    "source": "https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2",
+    "bytes": 26280
+  },
+  "/assets/fonts/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2": {
+    "source": "https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2",
+    "bytes": 7228
+  },
+  "/assets/fonts/efTfQcBJ53kM2pB1hezSZ3RDUFs.woff2": {
+    "source": "https://framerusercontent.com/assets/efTfQcBJ53kM2pB1hezSZ3RDUFs.woff2",
+    "bytes": 4172
+  },
+  "/assets/fonts/QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2": {
+    "source": "https://framerusercontent.com/assets/QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2",
+    "bytes": 7332
+  },
+  "/assets/fonts/gcnfba68tfm7qAyrWRCf9r34jg.woff2": {
+    "source": "https://framerusercontent.com/assets/gcnfba68tfm7qAyrWRCf9r34jg.woff2",
+    "bytes": 29692
+  },
+  "/assets/fonts/ky8ovPukK4dJ1Pxq74qGhOqCYI.woff2": {
+    "source": "https://framerusercontent.com/assets/ky8ovPukK4dJ1Pxq74qGhOqCYI.woff2",
+    "bytes": 7376
+  },
+  "/assets/fonts/lEJLP4R0yuCaMCjSXYHtJw72M.woff2": {
+    "source": "https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2",
+    "bytes": 6668
+  },
+  "/assets/fonts/gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2": {
+    "source": "https://framerusercontent.com/assets/gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2",
+    "bytes": 4528
+  },
+  "/assets/fonts/cugnVhSraaRyANCaUtI5FV17wk.woff2": {
+    "source": "https://framerusercontent.com/assets/cugnVhSraaRyANCaUtI5FV17wk.woff2",
+    "bytes": 6572
+  },
+  "/assets/fonts/mvNEIBLyHbscgHtwfsByjXUz3XY.woff2": {
+    "source": "https://framerusercontent.com/assets/mvNEIBLyHbscgHtwfsByjXUz3XY.woff2",
+    "bytes": 7332
+  },
+  "/assets/fonts/mkY5Sgyq51ik0AMrSBwhm9DJg.woff2": {
+    "source": "https://framerusercontent.com/assets/mkY5Sgyq51ik0AMrSBwhm9DJg.woff2",
+    "bytes": 8716
+  },
+  "/assets/fonts/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2": {
+    "source": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+    "bytes": 4504
+  },
+  "/assets/fonts/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2": {
+    "source": "https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2",
+    "bytes": 8908
+  },
+  "/assets/fonts/fuyXZpVvOjq8NesCOfgirHCWyg.woff2": {
+    "source": "https://framerusercontent.com/assets/fuyXZpVvOjq8NesCOfgirHCWyg.woff2",
+    "bytes": 30176
+  },
+  "/assets/fonts/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2": {
+    "source": "https://framerusercontent.com/assets/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2",
+    "bytes": 26264
+  },
+  "/assets/fonts/rZ5DdENNqIdFTIyQQiP5isO7M.woff2": {
+    "source": "https://framerusercontent.com/assets/rZ5DdENNqIdFTIyQQiP5isO7M.woff2",
+    "bytes": 27436
+  },
+  "/assets/fonts/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2": {
+    "source": "https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2",
+    "bytes": 27900
+  },
+  "/assets/fonts/ia3uin3hQWqDrVloC1zEtYHWw.woff2": {
+    "source": "https://framerusercontent.com/assets/ia3uin3hQWqDrVloC1zEtYHWw.woff2",
+    "bytes": 30368
+  },
+  "/assets/fonts/khkJkwSL66WFg8SX6Wa726c.woff2": {
+    "source": "https://framerusercontent.com/assets/khkJkwSL66WFg8SX6Wa726c.woff2",
+    "bytes": 9600
+  },
+  "/assets/fonts/uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2": {
+    "source": "https://framerusercontent.com/assets/uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2",
+    "bytes": 4220
+  },
+  "/assets/fonts/pKRFNWFoZl77qYCAIp84lN1h944.woff2": {
+    "source": "https://framerusercontent.com/assets/pKRFNWFoZl77qYCAIp84lN1h944.woff2",
+    "bytes": 29380
+  },
+  "/assets/fonts/vvNSqIj42qeQ2bvCRBIWKHscrc.woff2": {
+    "source": "https://framerusercontent.com/assets/vvNSqIj42qeQ2bvCRBIWKHscrc.woff2",
+    "bytes": 4828
+  },
+  "/assets/videos/lN121Od6cmfJkXFXD2gnsHz0yn4.mp4": {
+    "source": "https://framerusercontent.com/assets/lN121Od6cmfJkXFXD2gnsHz0yn4.mp4",
+    "bytes": 94845
+  },
+  "/assets/fonts/vxBnBhH8768IFAXAb4Qf6wQHKs.woff2": {
+    "source": "https://framerusercontent.com/assets/vxBnBhH8768IFAXAb4Qf6wQHKs.woff2",
+    "bytes": 9524
+  },
+  "/assets/fonts/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2": {
+    "source": "https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2",
+    "bytes": 4660
+  },
+  "/assets/fonts/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2": {
+    "source": "https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2",
+    "bytes": 7360
+  },
+  "/assets/fonts/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2": {
+    "source": "https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2",
+    "bytes": 6672
+  },
+  "/assets/fonts/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2": {
+    "source": "https://framerusercontent.com/assets/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2",
+    "bytes": 6676
+  },
+  "/assets/images/2TuvBjEiJ489Fe8xAM05d5ieL0.png": {
+    "source": "https://framerusercontent.com/assets/2TuvBjEiJ489Fe8xAM05d5ieL0.png",
+    "bytes": 875837
+  },
+  "/assets/fonts/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2": {
+    "source": "https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2",
+    "bytes": 4052
+  },
+  "/assets/fonts/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2": {
+    "source": "https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2",
+    "bytes": 7556
+  },
+  "/assets/fonts/yDtI2UI8XcEg1W2je9XPN3Noo.woff2": {
+    "source": "https://framerusercontent.com/assets/yDtI2UI8XcEg1W2je9XPN3Noo.woff2",
+    "bytes": 28088
+  },
+  "/assets/fonts/zSsEuoJdh8mcFVk976C05ZfQr8.woff2": {
+    "source": "https://framerusercontent.com/assets/zSsEuoJdh8mcFVk976C05ZfQr8.woff2",
+    "bytes": 7540
+  },
+  "/assets/images/BPpj5G3Roh2SK0y2RkM480KAho.png": {
+    "source": "https://framerusercontent.com/images/BPpj5G3Roh2SK0y2RkM480KAho.png?width=639&height=361",
+    "bytes": 69131
+  },
+  "/assets/images/BlBydIBfn22C7M9cqpcWuv2ZE.png": {
+    "source": "https://framerusercontent.com/images/BlBydIBfn22C7M9cqpcWuv2ZE.png?width=1600&height=1200",
+    "bytes": 113102
+  },
+  "/assets/images/robotic-palm-04498d259962.png": {
+    "source": "https://framerusercontent.com/images/Ee7hP2Y7yDzDqqeGTbuJMdrKw.png?width=512&height=282",
+    "bytes": 560589
+  },
+  "/assets/images/LAIhZUsVipgKRQty9afCEQeoY.png": {
+    "source": "https://framerusercontent.com/images/LAIhZUsVipgKRQty9afCEQeoY.png?width=482&height=542",
+    "bytes": 36013
+  },
+  "/assets/videos/zs7SbYRps3jWP1IznHGH8PAxsGw.mp4": {
+    "source": "https://framerusercontent.com/assets/zs7SbYRps3jWP1IznHGH8PAxsGw.mp4",
+    "bytes": 2117574
+  },
+  "/assets/images/1F9twh9YgT8DYUGqgTWsXecqaE.svg": {
+    "source": "https://framerusercontent.com/images/1F9twh9YgT8DYUGqgTWsXecqaE.svg?width=32&height=32",
+    "bytes": 685
+  },
+  "/assets/images/LOp5WLgyy4RkYNyDEfwIYSHzu6A.svg": {
+    "source": "https://framerusercontent.com/images/LOp5WLgyy4RkYNyDEfwIYSHzu6A.svg?width=32&height=32",
+    "bytes": 785
+  },
+  "/assets/images/ITLdfwsqfeJms4mAP7CQDVNJqps.png": {
+    "source": "https://framerusercontent.com/images/ITLdfwsqfeJms4mAP7CQDVNJqps.png?width=482&height=482",
+    "bytes": 76738
+  },
+  "/assets/images/Mc5DAG1cFfkljXXjjht6fCUeTZw.png": {
+    "source": "https://framerusercontent.com/images/Mc5DAG1cFfkljXXjjht6fCUeTZw.png?width=512&height=298",
+    "bytes": 17121
+  },
+  "/assets/images/QYpAmnkoy1zYXxWdyehtZ8XdiJw.png": {
+    "source": "https://framerusercontent.com/images/QYpAmnkoy1zYXxWdyehtZ8XdiJw.png?width=600&height=1200",
+    "bytes": 246316
+  },
+  "/assets/images/VnIYM2hzIUmKAV9exW6J5KHQ0.svg": {
+    "source": "https://framerusercontent.com/images/VnIYM2hzIUmKAV9exW6J5KHQ0.svg?width=32&height=32",
+    "bytes": 696
+  },
+  "/assets/images/robotic-hand-92c66acad063.png": {
+    "source": "https://framerusercontent.com/images/VECrf96wv4y4HLDEnYgDsB5lJJo.png?width=1000&height=1126",
+    "bytes": 386104
+  },
+  "/assets/images/WqMdDBoMNPZCKaCHfjtqt0isk.png": {
+    "source": "https://framerusercontent.com/images/WqMdDBoMNPZCKaCHfjtqt0isk.png?width=1600&height=1200",
+    "bytes": 289960
+  },
+  "/assets/images/OyAhzcFKWUatgP1tZokxJbQLMZ0.png": {
+    "source": "https://framerusercontent.com/images/OyAhzcFKWUatgP1tZokxJbQLMZ0.png?width=960&height=1200",
+    "bytes": 341347
+  },
+  "/assets/images/X78Z8hARPrUqrlhIOijhvA3j0.png": {
+    "source": "https://framerusercontent.com/images/X78Z8hARPrUqrlhIOijhvA3j0.png?width=360&height=545",
+    "bytes": 42895
+  },
+  "/assets/images/Zc5RcuhNUuM8ArfPYe7VfUraieI.png": {
+    "source": "https://framerusercontent.com/images/Zc5RcuhNUuM8ArfPYe7VfUraieI.png?width=100&height=100",
+    "bytes": 7696
+  },
+  "/assets/images/XD4QjiXwK4u97BukyyboH2RYnyQ.png": {
+    "source": "https://framerusercontent.com/images/XD4QjiXwK4u97BukyyboH2RYnyQ.png?width=1600&height=1200",
+    "bytes": 108975
+  },
+  "/assets/images/ZJNBfruj48MVRjpIuEF4EaUow7A.png": {
+    "source": "https://framerusercontent.com/images/ZJNBfruj48MVRjpIuEF4EaUow7A.png?width=1600&height=1200",
+    "bytes": 236963
+  },
+  "/assets/images/cT7rrwUTcOYfLQmYyjU43Y046c.png": {
+    "source": "https://framerusercontent.com/images/cT7rrwUTcOYfLQmYyjU43Y046c.png?width=1000&height=1126",
+    "bytes": 74461
+  },
+  "/assets/images/hegZ2CVU2kylHX4zM58VpHCK5PE.png": {
+    "source": "https://framerusercontent.com/assets/hegZ2CVU2kylHX4zM58VpHCK5PE.png",
+    "bytes": 9417
+  },
+  "/assets/images/eKurAXx41ymNWZD1IBlpUsuDTk.png": {
+    "source": "https://framerusercontent.com/images/eKurAXx41ymNWZD1IBlpUsuDTk.png?width=1600&height=1200",
+    "bytes": 50600
+  },
+  "/assets/images/kvOI2k6zWxlDvJkX36AGitTv0I.png": {
+    "source": "https://framerusercontent.com/images/kvOI2k6zWxlDvJkX36AGitTv0I.png?width=1600&height=1200",
+    "bytes": 153267
+  },
+  "/assets/images/kohL69frjiMIs2DrXypKf2wGRqU.png": {
+    "source": "https://framerusercontent.com/images/kohL69frjiMIs2DrXypKf2wGRqU.png?width=1600&height=1200",
+    "bytes": 234267
+  },
+  "/assets/images/lCDNEEJRlFNY1n77rQ4W3N0ShA.png": {
+    "source": "https://framerusercontent.com/images/lCDNEEJRlFNY1n77rQ4W3N0ShA.png?width=1600&height=1200",
+    "bytes": 174433
+  },
+  "/assets/images/r8D1fzsOPVIrBoUAWhLKS0S6lA.png": {
+    "source": "https://framerusercontent.com/images/r8D1fzsOPVIrBoUAWhLKS0S6lA.png?width=1600&height=1200",
+    "bytes": 100274
+  },
+  "/assets/images/rwjp0HNmRDRB79cUTJtDGWK4YeU.png": {
+    "source": "https://framerusercontent.com/images/rwjp0HNmRDRB79cUTJtDGWK4YeU.png?width=1336&height=2040",
+    "bytes": 237016
+  },
+  "/assets/images/qWAeijCNoMr15sTDKh0VKSrgBn4.svg": {
+    "source": "https://framerusercontent.com/images/qWAeijCNoMr15sTDKh0VKSrgBn4.svg?width=32&height=32",
+    "bytes": 558
+  },
+  "/assets/images/t97jV6gJeLI3EnOKcap9uv7Ei7c.png": {
+    "source": "https://framerusercontent.com/images/t97jV6gJeLI3EnOKcap9uv7Ei7c.png?width=1600&height=1200",
+    "bytes": 73363
+  },
+  "/assets/images/xfg572t8dLlFMyb5m1N3tn0cTtk.png": {
+    "source": "https://framerusercontent.com/images/xfg572t8dLlFMyb5m1N3tn0cTtk.png?width=1300&height=1300",
+    "bytes": 82713
+  },
+  "/assets/images/y8jUOG8AKlxptbWOsL1Bvfqdm20.svg": {
+    "source": "https://framerusercontent.com/images/y8jUOG8AKlxptbWOsL1Bvfqdm20.svg?width=32&height=32",
+    "bytes": 802
+  },
+  "/assets/images/zYsfUnk19IPVSZ1rmpgNyJYyjs.png": {
+    "source": "https://framerusercontent.com/images/zYsfUnk19IPVSZ1rmpgNyJYyjs.png?width=482&height=568",
+    "bytes": 56009
+  },
+  "/assets/images/x86nzURAvtSL9GPtFW53BCPg.svg": {
+    "source": "https://framerusercontent.com/images/x86nzURAvtSL9GPtFW53BCPg.svg?width=32&height=32",
+    "bytes": 318
+  },
+  "/vendor/67e39e258eda/CS3q8FXejOYLs0hSiH6QNoHtGRJP4EMz0HPl_hFQn-w.D0dEIbrU.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/CS3q8FXejOYLs0hSiH6QNoHtGRJP4EMz0HPl_hFQn-w.D0dEIbrU.mjs",
+    "bytes": 10229
+  },
+  "/vendor/67e39e258eda/LtabKCNLO669h6QDAyqQCtPL1tr3VIshAULPTae7TQk.ThFZMQKJ.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/LtabKCNLO669h6QDAyqQCtPL1tr3VIshAULPTae7TQk.ThFZMQKJ.mjs",
+    "bytes": 8690
+  },
+  "/vendor/67e39e258eda/PX9hIOIVM.BYJLmVo6.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/PX9hIOIVM.BYJLmVo6.mjs",
+    "bytes": 20144
+  },
+  "/vendor/67e39e258eda/X5i6fx5MYzPBIzp4ozHBYTMFYPHMl6IIZEdGEgf2a4E.D5P0lwb9.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/X5i6fx5MYzPBIzp4ozHBYTMFYPHMl6IIZEdGEgf2a4E.D5P0lwb9.mjs",
+    "bytes": 39009
+  },
+  "/vendor/67e39e258eda/OeCc4gM_k.BEyeN1_l.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/OeCc4gM_k.BEyeN1_l.mjs",
+    "bytes": 10472
+  },
+  "/vendor/67e39e258eda/WnyYffJlcklsL8L1sbXF6Qm864AEdXM9fCmZFz142xE.DK20l-rc.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/WnyYffJlcklsL8L1sbXF6Qm864AEdXM9fCmZFz142xE.DK20l-rc.mjs",
+    "bytes": 155
+  },
+  "/vendor/67e39e258eda/2aiKasP4JuNMWJwT4-hCOS-ej6ChKqkeWpxxA92QuGU.B_NVGOeK.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/2aiKasP4JuNMWJwT4-hCOS-ej6ChKqkeWpxxA92QuGU.B_NVGOeK.mjs",
+    "bytes": 423502
+  },
+  "/vendor/67e39e258eda/augiA20Il.DEGhQfwc.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/augiA20Il.DEGhQfwc.mjs",
+    "bytes": 1001
+  },
+  "/vendor/67e39e258eda/rolldown-runtime.Bi-D_2cA.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/rolldown-runtime.Bi-D_2cA.mjs",
+    "bytes": 244
+  },
+  "/vendor/67e39e258eda/o8zxy8RH1.C9lWegNC.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/o8zxy8RH1.C9lWegNC.mjs",
+    "bytes": 26286
+  },
+  "/vendor/67e39e258eda/motion.7CMlxStm.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/motion.7CMlxStm.mjs",
+    "bytes": 155308
+  },
+  "/vendor/67e39e258eda/react.Dxe_2v0O.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/react.Dxe_2v0O.mjs",
+    "bytes": 145014
+  },
+  "/vendor/67e39e258eda/shared-lib.ZNzNxXLt.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/shared-lib.ZNzNxXLt.mjs",
+    "bytes": 16806
+  },
+  "/vendor/67e39e258eda/searchIndex-pIkgjt7RQPOT.json": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/searchIndex-pIkgjt7RQPOT.json",
+    "bytes": 11931
+  },
+  "/vendor/67e39e258eda/framer.CysrFWNC.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/framer.CysrFWNC.mjs",
+    "bytes": 452934
+  },
+  "/vendor/67e39e258eda/toplevel-deps.kJdrHs-D.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/toplevel-deps.kJdrHs-D.mjs",
+    "bytes": 138162
+  },
+  "/vendor/67e39e258eda/vbb6Rlr1_FATk_ODZ7cHkygUylrrkQFPUCdZap2ksrc.U1APg39v.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/vbb6Rlr1_FATk_ODZ7cHkygUylrrkQFPUCdZap2ksrc.U1APg39v.mjs",
+    "bytes": 663
+  },
+  "/vendor/67e39e258eda/yy2mN6wy6.BdSWF2Mg.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/yy2mN6wy6.BdSWF2Mg.mjs",
+    "bytes": 751
+  },
+  "/assets/fonts/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2": {
+    "source": "https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+    "bytes": 27992
+  },
+  "/assets/fonts/4iCr6K5wfMRRjxp0DA6-2CLnN4FNh4UI_1U.woff2": {
+    "source": "https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnN4FNh4UI_1U.woff2",
+    "bytes": 45176
+  },
+  "/assets/videos/MLWPbW1dUQawJLhhun3dBwpgJak.mp4": {
+    "source": "https://framerusercontent.com/assets/MLWPbW1dUQawJLhhun3dBwpgJak.mp4",
+    "bytes": 1741729
+  },
+  "/assets/images/DJSycLSxNLOZMDMmHn4jC9ODfeI.svg": {
+    "source": "https://framerusercontent.com/assets/DJSycLSxNLOZMDMmHn4jC9ODfeI.svg",
+    "bytes": 189
+  },
+  "/assets/images/5ILRvlYXf72kHSVHqpa3snGzjU.jpg": {
+    "source": "https://framerusercontent.com/images/5ILRvlYXf72kHSVHqpa3snGzjU.jpg",
+    "bytes": 44557
+  },
+  "/assets/images/uFqwPun8lFLncDvXP1pnvWfvw.svg": {
+    "source": "https://framerusercontent.com/assets/uFqwPun8lFLncDvXP1pnvWfvw.svg",
+    "bytes": 192
+  },
+  "/assets/images/3bNVueEbSK7dPUVvjTasSUASijc.svg": {
+    "source": "https://framerusercontent.com/images/3bNVueEbSK7dPUVvjTasSUASijc.svg?width=32&height=32",
+    "bytes": 247
+  },
+  "/assets/fonts/vQyevYAyHtARFwPqUzQGpnDs.woff2": {
+    "source": "https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2",
+    "bytes": 27404
+  },
+  "/assets/images/abZ5OmOmfXEw6672a8B2eiQVLSI.svg": {
+    "source": "https://framerusercontent.com/assets/abZ5OmOmfXEw6672a8B2eiQVLSI.svg",
+    "bytes": 192
+  },
+  "/assets/images/srKNQHGUGfdhxixXiIemU7rkQ.svg": {
+    "source": "https://framerusercontent.com/assets/srKNQHGUGfdhxixXiIemU7rkQ.svg",
+    "bytes": 188
+  },
+  "/vendor/67e39e258eda/chunk.B3RYC8bk.DNY5w1M1.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/chunk.B3RYC8bk.DNY5w1M1.mjs",
+    "bytes": 22068
+  },
+  "/vendor/67e39e258eda/Wt_XPwHou.C69L6DH4.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/Wt_XPwHou.C69L6DH4.mjs",
+    "bytes": 20811
+  },
+  "/vendor/67e39e258eda/G8i3NIt5B.CsxDZohO.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/G8i3NIt5B.CsxDZohO.mjs",
+    "bytes": 757
+  },
+  "/vendor/67e39e258eda/XgrGz_aAz.BVO1z6QB.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/XgrGz_aAz.BVO1z6QB.mjs",
+    "bytes": 535
+  },
+  "/vendor/67e39e258eda/uwkNTxz_7.DbP9EgjC.mjs": {
+    "source": "https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/uwkNTxz_7.DbP9EgjC.mjs",
+    "bytes": 762
+  },
+  "/vendor/67e39e258eda/Wt_XPwHou.js": {
+    "source": "https://framerusercontent.com/modules/0mdlQnmRGa2cnoc4drnJ/2MbMvuzzzOr1OY7mHMRa/Wt_XPwHou.js",
+    "bytes": 2700
+  },
+  "/vendor/67e39e258eda/Wt_XPwHou-0.js": {
+    "source": "https://framerusercontent.com/modules/0mdlQnmRGa2cnoc4drnJ/2MbMvuzzzOr1OY7mHMRa/Wt_XPwHou-0.js",
+    "bytes": 27956
+  },
+  "/vendor/67e39e258eda/Wt_XPwHou-1.js": {
+    "source": "https://framerusercontent.com/modules/0mdlQnmRGa2cnoc4drnJ/2MbMvuzzzOr1OY7mHMRa/Wt_XPwHou-1.js",
+    "bytes": 2189
+  },
+  "/vendor/67e39e258eda/Wt_XPwHou-chunk-default-0.framercms": {
+    "source": "https://framerusercontent.com/cms/0mdlQnmRGa2cnoc4drnJ/2MbMvuzzzOr1OY7mHMRa/Wt_XPwHou-chunk-default-0.framercms",
+    "bytes": 4042
+  },
+  "/vendor/67e39e258eda/npc-scroll-velocity.js": {
+    "source": "src/site/npc-scroll-velocity.js",
+    "bytes": 5224
+  },
+  "/vendor/67e39e258eda/npc-dither-field.js": {
+    "source": "src/site/npc-dither-field.js",
+    "bytes": 23813
+  },
+  "/vendor/67e39e258eda/npc-theme.css": {
+    "source": "src/site/npc-theme.css",
+    "bytes": 3448
+  }
+}

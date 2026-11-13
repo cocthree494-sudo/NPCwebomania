@@ -1,0 +1,309 @@
+{
+  "homepage": [
+    {
+      "buttons": [
+        {
+          "height": 49.59375,
+          "left": 29.53125,
+          "right": 147.078125,
+          "text": "Get Started"
+        },
+        {
+          "height": 49.59375,
+          "left": 157.078125,
+          "right": 275.46875,
+          "text": "Learn More"
+        }
+      ],
+      "dots": 305,
+      "headingsClipped": false,
+      "heroHeight": 740,
+      "pageWidth": 305,
+      "viewport": [
+        320,
+        740
+      ],
+      "waveColor": "#8a8a8a"
+    },
+    {
+      "buttons": [
+        {
+          "height": 49.59375,
+          "left": 42.03125,
+          "right": 171.578125,
+          "text": "Get Started"
+        },
+        {
+          "height": 49.59375,
+          "left": 187.578125,
+          "right": 317.96875,
+          "text": "Learn More"
+        }
+      ],
+      "dots": 360,
+      "headingsClipped": false,
+      "heroHeight": 812,
+      "pageWidth": 360,
+      "viewport": [
+        375,
+        812
+      ],
+      "waveColor": "#8a8a8a"
+    },
+    {
+      "buttons": [
+        {
+          "height": 49.59375,
+          "left": 238.53125,
+          "right": 368.078125,
+          "text": "Get Started"
+        },
+        {
+          "height": 49.59375,
+          "left": 384.078125,
+          "right": 514.46875,
+          "text": "Learn More"
+        }
+      ],
+      "dots": 753,
+      "headingsClipped": false,
+      "heroHeight": 1024,
+      "pageWidth": 753,
+      "viewport": [
+        768,
+        1024
+      ],
+      "waveColor": "#8a8a8a"
+    },
+    {
+      "buttons": [
+        {
+          "height": 49.59375,
+          "left": 276.53125,
+          "right": 406.078125,
+          "text": "Get Started"
+        },
+        {
+          "height": 49.59375,
+          "left": 422.078125,
+          "right": 552.46875,
+          "text": "Learn More"
+        }
+      ],
+      "dots": 829,
+      "headingsClipped": false,
+      "heroHeight": 471.8125,
+      "pageWidth": 829,
+      "viewport": [
+        844,
+        390
+      ],
+      "waveColor": "#8a8a8a"
+    },
+    {
+      "buttons": [
+        {
+          "height": 49.59375,
+          "left": 366.53125,
+          "right": 496.078125,
+          "text": "Get Started"
+        },
+        {
+          "height": 49.59375,
+          "left": 512.078125,
+          "right": 642.46875,
+          "text": "Learn More"
+        }
+      ],
+      "dots": 1009,
+      "headingsClipped": false,
+      "heroHeight": 768,
+      "pageWidth": 1009,
+      "viewport": [
+        1024,
+        768
+      ],
+      "waveColor": "#8a8a8a"
+    },
+    {
+      "buttons": [
+        {
+          "height": 49.59375,
+          "left": 537.53125,
+          "right": 667.078125,
+          "text": "Get Started"
+        },
+        {
+          "height": 49.59375,
+          "left": 683.078125,
+          "right": 813.46875,
+          "text": "Learn More"
+        }
+      ],
+      "dots": 1351,
+      "headingsClipped": false,
+      "heroHeight": 768,
+      "pageWidth": 1351,
+      "viewport": [
+        1366,
+        768
+      ],
+      "waveColor": "#8a8a8a"
+    },
+    {
+      "buttons": [
+        {
+          "height": 49.59375,
+          "left": 814.53125,
+          "right": 944.078125,
+          "text": "Get Started"
+        },
+        {
+          "height": 49.59375,
+          "left": 960.078125,
+          "right": 1090.46875,
+          "text": "Learn More"
+        }
+      ],
+      "dots": 1905,
+      "headingsClipped": false,
+      "heroHeight": 1080,
+      "pageWidth": 1905,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "waveColor": "#8a8a8a"
+    }
+  ],
+  "otherPages": [
+    {
+      "clippedHeadings": [],
+      "pageWidth": 305,
+      "route": "/legal-pages/privacy-policy",
+      "width": 320
+    },
+    {
+      "clippedHeadings": [],
+      "pageWidth": 1009,
+      "route": "/legal-pages/privacy-policy",
+      "width": 1024
+    },
+    {
+      "clippedHeadings": [],
+      "pageWidth": 305,
+      "route": "/legal-pages/terms-of-service",
+      "width": 320
+    },
+    {
+      "clippedHeadings": [],
+      "pageWidth": 1009,
+      "route": "/legal-pages/terms-of-service",
+      "width": 1024
+    },
+    {
+      "clippedHeadings": [],
+      "pageWidth": 305,
+      "route": "/404",
+      "width": 320
+    },
+    {
+      "clippedHeadings": [],
+      "pageWidth": 1009,
+      "route": "/404",
+      "width": 1024
+    }
+  ],
+  "contact": [
+    {
+      "form": [
+        {
+          "right": 733,
+          "width": 713
+        },
+        {
+          "right": 420,
+          "width": 400
+        }
+      ],
+      "inputFont": [
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "overflow": false,
+      "route": "/contact",
+      "width": 768
+    },
+    {
+      "form": [
+        {
+          "right": 904.5,
+          "width": 800
+        },
+        {
+          "right": 420,
+          "width": 400
+        }
+      ],
+      "inputFont": [
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "overflow": false,
+      "route": "/contact",
+      "width": 1024
+    },
+    {
+      "form": [
+        {
+          "right": 1112.5,
+          "width": 800
+        },
+        {
+          "right": 440,
+          "width": 400
+        }
+      ],
+      "inputFont": [
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "overflow": false,
+      "route": "/contact",
+      "width": 1440
+    }
+  ],
+  "smallContact": {
+    "viewport": [
+      320,
+      740
+    ],
+    "pageWidth": 305,
+    "formWidth": 265
+  },
+  "landscapeMenu": {
+    "viewport": [
+      568,
+      320
+    ],
+    "height": 280,
+    "contentHeight": 566,
+    "verifiedScrollTop": 286
+  },
+  "validation": {
+    "productionBuild": "passed",
+    "localAssets": 150,
+    "waveColors": "monochrome",
+    "dotSize": 1,
+    "fpsCap": 60
+  }
+}

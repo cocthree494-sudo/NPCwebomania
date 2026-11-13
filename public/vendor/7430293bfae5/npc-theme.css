@@ -1,0 +1,85 @@
+/* Botanical neutrals, soft pear light, and a crisp lime accent. */
+:root {
+  color-scheme: dark;
+  --npc-ink: #080f0c;
+  --npc-surface: #141f18;
+  --npc-paper: #f3f5eb;
+  --npc-sage: #b5bfb3;
+  --npc-pear: #b9d879;
+  --npc-lime: #d3ea2b;
+  --npc-field-low: #214831;
+  --npc-field-mid: #7da864;
+  --npc-field-high: #d3ea2b;
+}
+
+body {
+  background: var(--npc-ink);
+}
+
+::selection {
+  background: var(--npc-pear);
+  color: var(--npc-ink);
+}
+
+/* Give the moving light room to breathe behind the headline. */
+#home-page npc-dither-field {
+  background: var(--npc-ink);
+}
+
+#home-page .framer-1t7r4jy-container::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(ellipse 56% 35% at 50% 43%, #080f0cc4 0%, #080f0c5c 58%, transparent 100%),
+    linear-gradient(180deg, #080f0c96 0%, transparent 24%, transparent 76%, var(--npc-ink) 100%);
+}
+
+#home-page h1 em,
+#home-page h1 i {
+  color: #d8e7ba;
+}
+
+/* A single clear action, with a quieter translucent companion. */
+.framer-Xd6GH[data-framer-name="Variant 1"] {
+  background-color: var(--npc-pear) !important;
+  box-shadow: inset 0 1px 0 #f3f5eb55, 0 6px 24px #080f0c20;
+  transition: background-color 180ms ease, box-shadow 180ms ease;
+}
+
+.framer-Xd6GH[data-framer-name="Variant 1"]:hover {
+  background-color: #cee696 !important;
+  box-shadow: inset 0 1px 0 #f3f5eb66, 0 8px 30px #b9d87918;
+}
+
+#home-page .framer-Xd6GH[data-framer-name="Variant 2"] {
+  background-color: #14231cbd !important;
+  box-shadow: inset 0 0 0 1px #b5bfb330;
+  backdrop-filter: blur(12px) !important;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid var(--npc-pear);
+  outline-offset: 4px;
+}
+
+/* Only decorative brand artwork is toned; portfolio work keeps its colours. */
+a[aria-label="Navbar Logo Link"],
+a[aria-label="Footer Logo Link"] {
+  background: radial-gradient(85% 85% at 30% 15%, #e0edcb 0%, #abc58a 58%, #668251 100%) !important;
+}
+
+a[aria-label="Navbar Logo Link"] [data-framer-name="Orb"],
+a[aria-label="Footer Logo Link"] [data-framer-name="Orb"] {
+  filter: none !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .framer-Xd6GH[data-framer-name="Variant 1"] {
+    transition: none;
+  }
+}
