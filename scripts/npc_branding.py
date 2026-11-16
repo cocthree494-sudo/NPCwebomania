@@ -57,6 +57,14 @@ def customize_module(content, name):
         content = customize_palette(content)
     content = content.replace('MVN STUDIO', 'NPC AUTOMATORS')
     content = content.replace('MVN Studio', 'NPC Automators')
+    if 'className:`framer-wvf44p`' in content:
+        # Replace the selected Nolary image's whole responsive wrapper, so
+        # hydration and ticker clones use the same native project element.
+        marker = content.index('alt:`Nolary Website`')
+        start = content.rfind('/*#__PURE__*/ _(ie,{children:', 0, marker)
+        end = content.index(',/*#__PURE__*/ _(ie,{children:', marker)
+        assert start >= 0, 'SIDRA portfolio slot changed upstream.'
+        content = content[:start] + '/*#__PURE__*/ _(ie,{children:/*#__PURE__*/ _(`npc-sidra-project`,{className:`framer-wvf44p`,id:`wvf44p`})})' + content[end:]
     # The expanded navbar uses native nested scrolling on short screens.
     # Mark it in the client graph too, so Lenis does not intercept its wheel/touch.
     content = content.replace('"data-framer-name":`Menu`',
@@ -101,6 +109,9 @@ def customize_html(content, revision):
     content = customize_palette(content)
     content = content.replace('MVN STUDIO', 'NPC AUTOMATORS')
     content = content.replace('MVN Studio', 'NPC Automators')
+    content = re.sub(
+        r'<div class="framer-wvf44p"[^>]*><div\b[^>]*><img\b[^>]*></div></div>',
+        '<npc-sidra-project class="framer-wvf44p" id="wvf44p"></npc-sidra-project>', content)
     content = content.replace('data-framer-name="Menu"',
         'data-framer-name="Menu" data-lenis-prevent="true"')
     content = re.sub(
@@ -129,5 +140,6 @@ npc-scroll-velocity {{ display: block; width: 100%; min-width: 0; }}
 </style>
 <script type="module" src="/vendor/{revision}/npc-scroll-velocity.js"></script>
 <script type="module" src="/vendor/{revision}/npc-dither-field.js"></script>
+<script type="module" src="/vendor/{revision}/npc-sidra-project.js"></script>
 </head>''')
     return content

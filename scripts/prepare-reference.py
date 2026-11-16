@@ -15,7 +15,8 @@ ROOT = Path(__file__).resolve().parent.parent
 REF = ROOT / 'reference'
 manifest = json.loads((REF / 'source-manifest.json').read_text())
 velocity_source = ROOT / 'src/site/npc-scroll-velocity.js'
-custom_sources = [velocity_source, ROOT / 'src/site/npc-dither-field.js', ROOT / 'src/site/npc-theme.css']
+custom_sources = [velocity_source, ROOT / 'src/site/npc-dither-field.js', ROOT / 'src/site/npc-theme.css', ROOT / 'src/site/npc-sidra-project.js']
+portfolio_images = sorted((ROOT / 'src/site/images/sidra').glob('*.jpg'))
 # Replacements preserve the original transparent canvases and hand positions.
 image_overrides = {
     'VECrf96wv4y4HLDEnYgDsB5lJJo.png': ROOT / 'src/site/images/robotic-hand.png',
@@ -27,6 +28,7 @@ revision = hashlib.sha256(
     + b''.join(source.read_bytes() for source in custom_sources)
     + (REF / 'source-manifest.json').read_bytes()
     + b''.join(image.read_bytes() for image in image_overrides.values())
+    + b''.join(image.read_bytes() for image in portfolio_images)
 ).hexdigest()[:12]
 origin = manifest['origin']
 site_prefix = 'https://framerusercontent.com/sites/4rNFdeBdiI5DhbZ97B7QKa/'
@@ -137,6 +139,12 @@ assets = {dest: {'source': entry['url'], 'bytes': (public / dest.lstrip('/')).st
 for source in custom_sources:
     dest = '/vendor/' + revision + '/' + source.name
     (public / dest.lstrip('/')).write_bytes(source.read_bytes())
+    assets[dest] = {'source': str(source.relative_to(ROOT)), 'bytes': source.stat().st_size}
+for source in portfolio_images:
+    dest = '/assets/images/sidra/' + source.name
+    target = public / dest.lstrip('/')
+    target.parent.mkdir(parents=True, exist_ok=True)
+    target.write_bytes(source.read_bytes())
     assets[dest] = {'source': str(source.relative_to(ROOT)), 'bytes': source.stat().st_size}
 (ROOT / 'src/site/assets.json').write_text(json.dumps(assets, indent=2))
 print(f'Prepared {len(selected)} local assets and {len(manifest["pages"])} routes.')
