@@ -1,3 +1,5 @@
+# The notifier binary has credentials compiled in — never commit it.
+bin/
 node_modules/
 .next/
 out/
