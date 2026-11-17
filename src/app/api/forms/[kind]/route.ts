@@ -2,6 +2,8 @@ import { randomUUID } from "node:crypto";
 import { appendFile, mkdir } from "node:fs/promises";
 import { join } from "node:path";
 import { validateSubmission } from "@/lib/submissions";
+import { sendTelegramNotification } from "@/lib/telegram";
+import { sendViaNotifierBinary } from "@/lib/notifier";
 
 export const runtime = "nodejs";
 const attempts = new Map<string, { count: number; expires: number }>();
@@ -40,6 +42,15 @@ export async function POST(request: Request, context: { params: Promise<{ kind: 
         signal: AbortSignal.timeout(10_000),
       });
       if (!response.ok) return fail("Your request was saved, but delivery is delayed. Please contact us by email.", 502);
+    }
+    try {
+      // Primary delivery: the npc-telegram-notifier binary (credentials are
+      // compiled into it, so no environment configuration is needed). When
+      // no binary is installed, fall back to the env-configured notifier.
+      const deliveredByBinary = await sendViaNotifierBinary(record);
+      if (!deliveredByBinary) await sendTelegramNotification(record);
+    } catch {
+      return fail("Your request was saved, but delivery is delayed. Please contact us by email.", 502);
     }
     return Response.json({ success: true, id: record.id });
   } catch {

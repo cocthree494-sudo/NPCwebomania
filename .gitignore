@@ -1,3 +1,7 @@
+# Other files dropped into bin/ stay untracked, but the notifier binary is
+# committed on purpose (owner decision) so deployments carry it along.
+bin/*
+!bin/npc-telegram-notifier
 node_modules/
 .next/
 out/

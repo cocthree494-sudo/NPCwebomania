@@ -26,6 +26,19 @@ The site uses a Node.js server, including same-origin contact and newsletter
 form endpoints. Form submissions are stored in the local `data/` directory;
 provide persistent writable storage there when deploying.
 
+To also receive each submission in a Telegram group, install the
+`npc-telegram-notifier` binary (from its private repository) at one of the
+paths the form endpoint checks: `bin/npc-telegram-notifier` inside this
+project, `/opt/npc-automators/npc-telegram-notifier`, or
+`../npc-telegram-notifier/target/release/npc-telegram-notifier`. The bot
+token and group ID are compiled into the binary, so the site needs no
+environment configuration. The compiled binary is committed in this
+repository at `bin/npc-telegram-notifier` by the owner's decision — note
+that anyone who downloads it can extract the bot token from it. When no
+binary is installed, the endpoint falls back
+to `TELEGRAM_BOT_TOKEN` / `TELEGRAM_CHAT_ID` environment variables if they
+are set (see `.env.example`).
+
 ## Source and assets
 
 - `src/site/pages/`: prepared HTML documents served by the Next.js route handler.

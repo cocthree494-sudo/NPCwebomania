@@ -9,7 +9,7 @@
     "start": "next start --hostname 0.0.0.0",
     "typecheck": "tsc --noEmit",
     "prepare:reference": "python3 scripts/prepare-reference.py",
-    "test": "node --experimental-strip-types --test --test-isolation=none tests/submissions.test.ts",
+    "test": "node --experimental-strip-types --test --test-isolation=none tests/submissions.test.ts tests/telegram.test.ts tests/notifier.test.ts",
     "verify:assets": "python3 scripts/verify-assets.py"
   },
   "dependencies": {
