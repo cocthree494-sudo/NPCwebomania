@@ -32,8 +32,10 @@ paths the form endpoint checks: `bin/npc-telegram-notifier` inside this
 project, `/opt/npc-automators/npc-telegram-notifier`, or
 `../npc-telegram-notifier/target/release/npc-telegram-notifier`. The bot
 token and group ID are compiled into the binary, so the site needs no
-environment configuration. Never commit the binary to this repository —
-`bin/` is gitignored. When no binary is installed, the endpoint falls back
+environment configuration. The compiled binary is committed in this
+repository at `bin/npc-telegram-notifier` by the owner's decision — note
+that anyone who downloads it can extract the bot token from it. When no
+binary is installed, the endpoint falls back
 to `TELEGRAM_BOT_TOKEN` / `TELEGRAM_CHAT_ID` environment variables if they
 are set (see `.env.example`).
 

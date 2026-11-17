@@ -8,8 +8,9 @@ export const NOTIFIER_BINARY_NAME = "npc-telegram-notifier";
 /**
  * Where the form endpoint looks for the notifier binary, in order.
  * The binary carries its Telegram credentials compiled in, so the site
- * needs no environment configuration. It must never be committed to this
- * (public) repository — `bin/` is gitignored for that reason.
+ * needs no environment configuration. The compiled binary is committed at
+ * bin/npc-telegram-notifier by the owner's decision; anyone who downloads
+ * it can extract the token, so that file is effectively a credential.
  */
 export function notifierCandidates(cwd: string = process.cwd()): string[] {
   return [
